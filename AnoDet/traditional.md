@@ -95,4 +95,18 @@
   booktitle={CVPR},
   year={2009},
 }
+
+@inproceedings{wu2010chaotic,
+  title={Chaotic invariants of lagrangian particle trajectories for anomaly detection in crowded scenes},
+  author={Wu, Shandong and Moore, Brian E and Shah, Mubarak},
+  booktitle={CVPR},
+  year={2010},
+}
+
+@inproceedings{zhang2005semi,
+  title={Semi-supervised adapted hmms for unusual event detection},
+  author={Zhang, Dong and Gatica-Perez, Daniel and Bengio, Samy and McCowan, Iain},
+  booktitle={CVPR},
+  year={2005},
+}
 ```
